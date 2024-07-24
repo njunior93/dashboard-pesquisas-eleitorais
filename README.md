@@ -10,5 +10,5 @@
 </ul>
 
 <h2>Arquitetura</h2>
-<p><img src="img/Looker.PNG"></p>
+<p><img src="img/Looker.png"></p>
 
