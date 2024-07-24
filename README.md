@@ -13,5 +13,5 @@
 <p><img src="img/Looker.png"></p>
 
 <h2>Dashboard</h2>
-Para conferir clique <a target='_blank' href='https://lookerstudio.google.com/reporting/6d604d4b-d22e-4c9e-89e2-924d1f193277'>aqui</a>
+<p>Para conferir <a target='_blank' href='https://lookerstudio.google.com/reporting/6d604d4b-d22e-4c9e-89e2-924d1f193277'>clique aqui</a></p>
 <p><img src="img/Dashboard.png"></p>
