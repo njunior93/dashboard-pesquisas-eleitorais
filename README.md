@@ -3,6 +3,7 @@ O objetivo deste projeto é colocar em pratica o que venho aprendendo com Looker
 
 <h2>Pilha de tecnologia</h2>
 As seguintes tecnologias usadas
+
 <ul>
   <li>basedosdados.org/ - como Data Lake</li>
   <li>Google BigQuery - para Data Warehouse</li>
