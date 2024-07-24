@@ -3,7 +3,6 @@
 
 <h2>Pilha de tecnologia</h2>
 <p>As seguintes tecnologias usadas</p>
-<br>
 <ul>
   <li>basedosdados.org/ - como Data Lake</li>
   <li>Google BigQuery - para Data Warehouse</li>
