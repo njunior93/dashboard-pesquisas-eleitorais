@@ -1,4 +1,4 @@
-<h1>Dashboard sobre Pesquisas Eleitorais</h1>
+<h1>Dashboard Preços de Combustíveis</h1>
 <p>O objetivo deste projeto é colocar em pratica o que venho aprendendo com Looker Studio. Sou iniciante. MUITO INICIANTE. Então, como exercicio criei esse dashboad, que extrai dados do BigQuery, criando uma tabela com dados usado no portal https://basedosdados.org/. "Preços de Combustíveis" uma pesquisa feita pela a ANP. Como proprio site descreve.</p>
 
 <h2>Pilha de tecnologia</h2>
