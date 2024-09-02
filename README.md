@@ -19,7 +19,7 @@
 <hr>
 
 <h1>Dashboard Analise Exploratória Banking</h1>
-<p>Usando um exercicio de um curso de Power Bi, tive como objetivo criar o painel usando o Looker Studio ao invés de outra ferramenta</p>
+<p>Usando um exercicio de um curso de Power Bi.Tive como objetivo criar o painel usando o Looker Studio ao invés de outra ferramenta</p>
 
 <h2>Pilha de tecnologia</h2>
 <p>As seguintes tecnologias usadas</p>
