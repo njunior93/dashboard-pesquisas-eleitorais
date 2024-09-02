@@ -16,7 +16,7 @@
 <p>Para conferir, <a href='https://lookerstudio.google.com/reporting/6d604d4b-d22e-4c9e-89e2-924d1f193277' target="_blank">clique aqui</a></p>
 <p><img src="img/dashboard.JPG"></p>
 
-<p></p>
+<hr>
 
 <h1>Dashboard Analise Exploratória Banking</h1>
 <p>Usando um exercicio de um curso de Power Bi, tive como objetivo criar o painel usando o Looker Studio ao invés de outra ferramenta</p>
