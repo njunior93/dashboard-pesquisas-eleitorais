@@ -3,10 +3,10 @@
 
 <hr>
 
-<h1>Dashboard Preços de Combustíveis</h1>
+<h2>Dashboard Preços de Combustíveis</h2>
 <p>Dashboard criado usando uma base de dados da plataforma https://basedosdados.org/. "Preços de Combustíveis" uma pesquisa feita pela a ANP. Como proprio site descreve.</p>
 
-<h2>Pilha de tecnologia</h2>
+<h3>Pilha de tecnologia</h3>
 <p>As seguintes tecnologias usadas</p>
 <ul>
   <li>basedosdados.org/ - como Data Lake</li>
