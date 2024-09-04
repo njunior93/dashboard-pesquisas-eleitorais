@@ -1,3 +1,8 @@
+<h1>Portfólio Looker Studio 📊</h1>
+<p>Repositório com foco em estudos em Looker Studio.</p>
+
+<hr>
+
 <h1>Dashboard Preços de Combustíveis</h1>
 <p>Dashboard criado usando uma base de dados da plataforma https://basedosdados.org/. "Preços de Combustíveis" uma pesquisa feita pela a ANP. Como proprio site descreve.</p>
 
