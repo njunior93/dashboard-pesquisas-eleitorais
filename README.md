@@ -34,3 +34,20 @@
 <h3>Dashboard</h3>
 <p>Para conferir, <a href='https://lookerstudio.google.com/s/p4VVJ6C6TjM' target="_blank">clique aqui</a></p>
 <p><img src="img/analiseexplor.JPG"></p>
+
+<hr>
+
+<h2>Dashboard RH</h2>
+<p>Painel criado para por em prática os meus conhecimentos sobre o Looker Studio.</p>
+
+<h3>Pilha de tecnologia</h3>
+<p>As seguintes tecnologias usadas</p>
+<ul>
+  <li>Google Sheet - como Armazamento da base/planilha</li>
+  <li>Estudio Google Looker - para visualizações</li>
+</ul>
+
+<h3>Dashboard</h3>
+<p>Para conferir, <a href='https://lookerstudio.google.com/u/0/reporting/debe44af-a070-4c85-b0cd-024241433da2' target="_blank">clique aqui</a></p>
+<p><img src="img/dashboard-rh.JPG"></p>
+
